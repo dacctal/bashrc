@@ -9,9 +9,6 @@ alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 PS1='[\u@\h \W]\$ '
 
-# cursor init
-exec ~/cursor.sh
-
 # my aliases
 alias nv='nvim'
 alias ls='eza --icons=always'
