@@ -13,7 +13,7 @@
   border-radius: 8px;
   font-family: FiraCode;
   font-weight: 400;
-  font-size: 18px;
+  font-size: 14px;
   margin: 2px;
   margin-bottom: 1px;
 }
@@ -29,7 +29,7 @@ window#waybar {
   background: #0f0d0a;
   box-shadow: none;
   text-shadow: none;
-  padding: 0 8px;
+  padding: 2 12px;
   color: #fda;
 }
 
@@ -37,7 +37,7 @@ window#waybar {
   border: 1px solid #ffddaa;
   background: #0f0d0a;
   color: #ffddaa;
-  padding: 0 12px;
+  padding: 2 24px;
 }
 
 #workspaces button:hover {
@@ -52,7 +52,7 @@ window#waybar {
   background: #0f0d0a;
   box-shadow: none;
   text-shadow: none;
-  padding: 0 8px;
+  padding: 2 12px;
   border-radius: 8px;
   color: #fda;
 }
@@ -62,7 +62,7 @@ window#waybar {
   background: #0f0d0a;
   box-shadow: none;
   text-shadow: none;
-  padding: 0 8px;
+  padding: 2 12px;
   border-radius: 8px;
   color: #fda;
 }
@@ -72,7 +72,7 @@ window#waybar {
   background: #0f0d0a;
   box-shadow: none;
   text-shadow: none;
-  padding: 0 12px;
+  padding: 2 16px;
   border-radius: 8px;
   color: #fda;
 }
@@ -82,7 +82,7 @@ window#waybar {
   background: #0f0d0a;
   box-shadow: none;
   text-shadow: none;
-  padding: 0 12px;
+  padding: 2 16px;
   border-radius: 8px;
   color: #fda;
 }
@@ -92,7 +92,7 @@ window#waybar {
   background: #0f0d0a;
   box-shadow: none;
   text-shadow: none;
-  padding: 0 12px;
+  padding: 2 16px;
   border-radius: 8px;
   color: #fda;
 }
@@ -102,7 +102,7 @@ window#waybar {
   background: #0f0d0a;
   box-shadow: none;
   text-shadow: none;
-  padding: 0 12px;
+  padding: 2 16px;
   border-radius: 8px;
   color: #fda;
 }
@@ -112,7 +112,7 @@ window#waybar {
   background: #0f0d0a;
   box-shadow: none;
   text-shadow: none;
-  padding: 0 12px;
+  padding: 2 16px;
   border-radius: 8px;
   color: #fda;
 }
